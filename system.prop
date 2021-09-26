@@ -32,3 +32,8 @@ ro.opa.eligible_device=true
 
 # Force triple frame buffers
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+
+# Havoc-OS
+ro.havoc.device.name=Redmi Note 6 Pro
+ro.havoc.group.url=https://t.me/havoc_tulip
+ro.havoc.maintainer=Akhil MS (AkhilMsAchu)

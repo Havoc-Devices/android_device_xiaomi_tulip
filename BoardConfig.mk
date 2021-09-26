@@ -25,6 +25,9 @@
 # Inherit from sdm660-common
 include device/xiaomi/sdm660-common/BoardConfigCommon.mk
 
+# System props
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
 DEVICE_PATH := device/xiaomi/tulip
 
 # Assert
