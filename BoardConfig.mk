@@ -52,8 +52,9 @@ BOARD_VENDORIMAGE_PARTITION_SIZE := 2147483648
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 
-# Security patch level
-VENDOR_SECURITY_PATCH := 2018-11-01
+# Last stock security patch levels
+PLATFORM_FAKE_SECURITY_PATCH := 2020-11-05
+VENDOR_SECURITY_PATCH := 2020-11-05
 
 # MiuiCamera
 include vendor/miuicamera/common/BoardConfigVendor.mk
