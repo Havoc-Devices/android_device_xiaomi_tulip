@@ -34,7 +34,7 @@ ro.opa.eligible_device=true
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 
 # Havoc-OS
-ro.havoc.device.name=Redmi Note 6 Pro
-ro.havoc.group.url=https://t.me/havoc_tulip
+ro.havoc.device.name=Xiaomi Redmi Note 6 Pro
+ro.havoc.group.url=https://t.me/+lC3wpdFw0CdmMTk1
 ro.havoc.maintainer=Akhil MS
 ro.havoc.maintainer.username=AkhilMsAchu
